@@ -1,0 +1,6 @@
+require 'pry'
+
+x = 10
+binding.pry
+
+'eof'
